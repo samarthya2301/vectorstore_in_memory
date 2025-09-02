@@ -1,0 +1,5 @@
+----- 038
+* FAISS is an opensource tool
+* FAISS is used for purposes that deal with smaller documents
+* It is run locally
+* Unlike pinecone(SaaS), local manual setup is required
